@@ -17,6 +17,8 @@ If you created one of the following murals and/or pieces of street art, please c
 ## Slow looking Black Lives Matter Murals 
 ### ["Mural of Protestors" by @MadebyAleix](https://slowlooking.cogapp.com/?image=https://storiiies-images.cogapp.com/iiif/2/1611076993476IMG3405.ptif)
 
+![Image of mural](https://slowlooking.cogapp.com/?image=https://storiiies-images.cogapp.com/iiif/2/1611076993476IMG3405.ptif)
+
 Mural in downtown Raleigh, NC of a group of people with masks and signs.
 
 Artist: @MadebyAleix
