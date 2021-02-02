@@ -21,8 +21,6 @@ Mural in downtown Raleigh, NC of a group of people with masks and signs.
 
 Artist: @MadebyAleix
 
-Title: “Mural of Protestors” 
-
 Date: 2021-01-06
 
 ***
@@ -31,9 +29,7 @@ Date: 2021-01-06
 
 CVS in The Raleigh Building at 200 Fayetteville St, Raleigh, NC 27601 with a mural recognizing the 2020 African American Cultural Festival. 
 
-Title: 2020 African American Cultural Festival Mural at CVS, Raleigh
-
-Rights: ELSE 2020 
+Artist: ELSE 2020 
 
 Date documented: 2021-01-16
 
@@ -43,29 +39,23 @@ Date documented: 2021-01-16
 
 CVS in The Raleigh Building at 200 Fayetteville St, Raleigh, NC 27601 with a mural recognizing the 2020 African American Cultural Festival. 
 
-Title: 2020 African American Cultural Festival Mural at CVS, Raleigh - 2
-
-Rights: ELSE 2020 
+Artist: ELSE 2020 
 
 Date documented: 2021-01-16
 
 ***
 
-### [The Mahler Building](https://slowlooking.cogapp.com/?image=https://storiiies-images.cogapp.com/iiif/2/1611679380643IMG3417.ptif) 
+### [Jaki Shelton Green Quote on The Mahler Building](https://slowlooking.cogapp.com/?image=https://storiiies-images.cogapp.com/iiif/2/1611679380643IMG3417.ptif) 
 
 Mural on The Mahler Building in downtown Raleigh, NC reading: "Art is one way for people to examine, dismantle, take apart, rip open the seams, and find where the truth will set them free" - Jaki Shelton Green. 
-
-Title:"Jaki Shelton Green Quote Mural"
 
 Date: 2021-01-16
 
 ***
 
-### [Kimbrell’s](https://slowlooking.cogapp.com/?image=https://storiiies-images.cogapp.com/iiif/2/1611679508727edit.ptif)
+### ["Hate Stop" at Kimbrell’s](https://slowlooking.cogapp.com/?image=https://storiiies-images.cogapp.com/iiif/2/1611679508727edit.ptif)
 
 A mural on Kimbrell's Furniture in downtown Raleigh, NC at 210 Fayetteville St, Raleigh, NC 27601.
-
-Title: "Hate Stop" at Kimbrell's Furniture in downtown Raleigh, NC
 
 Date: 2021-01-16
 
@@ -75,8 +65,6 @@ Date: 2021-01-16
 
 Photo of murals and buildings on Wilmington Street in downtown Raleigh, NC.
 
-Title: “Wilmington Street”
-
 Date: 2021-01-16
 
 ***
@@ -85,27 +73,21 @@ Date: 2021-01-16
 
 Mural and street art pieces coming up/going down in downtown Raleigh, NC.
 
-Title: “Signs Down/Going Up”
-
 Date: 2021-01-16
 
 ***
 
-### [Princesses across from CAM](https://slowlooking.cogapp.com/?image=https://storiiies-images.cogapp.com/iiif/2/1611679723786IMG3434.ptif) 
+### ["REMEMBER THE TRUTH" Princesses across from CAM](https://slowlooking.cogapp.com/?image=https://storiiies-images.cogapp.com/iiif/2/1611679723786IMG3434.ptif) 
 
 Disney Princess mural painted across from Raleigh's Contemporary Art Museum that reads: "REMEMBER THE TRUTH."
 
-Title: “REMEMBER THE TRUTH”
-
 Date: 2021-01-16
 
 ***
 
-### [Big Mural](https://slowlooking.cogapp.com/?image=https://storiiies-images.cogapp.com/iiif/2/1611679890370IMG9777.ptif) and [From the side](https://slowlooking.cogapp.com/?image=https://storiiies-images.cogapp.com/iiif/2/1611680176610IMG9782edit.ptif)
+### [Multipanel Mural](https://slowlooking.cogapp.com/?image=https://storiiies-images.cogapp.com/iiif/2/1611679890370IMG9777.ptif) and [From the side](https://slowlooking.cogapp.com/?image=https://storiiies-images.cogapp.com/iiif/2/1611680176610IMG9782edit.ptif)
 
 Mural in downtown Raleigh, NC that reads, from left to right: "SAY THEIR NAMES," "VOTE," "BLACK LIVES MATTER," "VOTE, VOTE, VOTE, VOTE," "NO JUSTICE NO PEACE," "I CAN'T BREATHE."
-
-Title: Multipanel Mural in Downtown Raleigh, NC
 
 Date: 2020-06-03
 
@@ -114,8 +96,6 @@ Date: 2020-06-03
 ### [The System is Backwards](https://slowlooking.cogapp.com/?image=https://storiiies-images.cogapp.com/iiif/2/1611680029479IMG3412edit.ptif)
 
 Mural in downtown Raleigh, NC reading: "BLM. The system is backwards. Rebuild the world for the meek."
-
-Title: "BLM. The system is backwards. Rebuild the world for the meek."
 
 Date: 2021-01-16
 
@@ -137,9 +117,13 @@ Lastly, a Slow Looking experience of the [Barricades at the Capitol](https://slo
 
 Following [Teaching Tolerance’s Social Justice Standards](https://www.tolerance.org/frameworks/social-justice-standards), reflect on these questions after viewing and experiencing the Slow looking images.
 > _Identity_: How is identity and culture explored and addressed in these murals and pieces of street art?
+
 > _Diversity_: What does diversity mean to you? How are diverse identities, perspectives, and identities represented in these images?
+
 > _Justice_: How do these images address, challenge, and confront unfairness, social inequities, systemic discrimination?
+
 > _Action_:How do these murals and pieces of street art reveal of your own personal responsibility to actively work against injustice, discrimination, and racism? 
+
 
 Artists across the country and world have used art to raise their voice. How will you use your voice and amplify the voices of those who are most impacted by injustice, discrimination, and racism? 
 
