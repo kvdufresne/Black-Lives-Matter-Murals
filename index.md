@@ -103,7 +103,7 @@ Date: 2021-01-16
 
 ### ["Love Your Neighbor As Yourself"](https://slowlooking.cogapp.com/?image=https://storiiies-images.cogapp.com/iiif/2/1611680318056IMG3439.ptif) 
 
-Banner sign from First Baptist Church in downtown Raleigh, NC reading: “‘Love Your Neighbor As Yourself.’ MATTHEW 22:39. Matter is the minimum. Black lives are worthy, beloved & needed. WE ARE LISTENING. WE ARE STANDING WITH YOU. YOU ARE NOT ALONE. FIRST BAPTIST CHURCH 99 N. SALISBURY STREET | RALEIGH FBCRALEIGH.ORG”
+Banner sign from First Baptist Church in downtown Raleigh, NC reading: “‘Love Your Neighbor As Yourself.’ MATTHEW 22:39. Matter is the minimum. Black lives are worthy, beloved & needed. WE ARE LISTENING. WE ARE STANDING WITH YOU. YOU ARE NOT ALONE. FIRST BAPTIST CHURCH 99 N. SALISBURY STREET - RALEIGH FBCRALEIGH.ORG”
 
 Date: 2021-01-16
 
@@ -116,13 +116,17 @@ Lastly, a Slow Looking experience of the [Barricades at the Capitol](https://slo
 ## Teaching Tolerance Guiding Questions:
 
 Following [Teaching Tolerance’s Social Justice Standards](https://www.tolerance.org/frameworks/social-justice-standards), reflect on these questions after viewing and experiencing the Slow looking images.
-> _Identity_: How is identity and culture explored and addressed in these murals and pieces of street art?
+> _Identity_ 
+> How is identity and culture explored and addressed in these murals and pieces of street art?
 
-> _Diversity_: What does diversity mean to you? How are diverse identities, perspectives, and identities represented in these images?
+> _Diversity_
+> What does diversity mean to you? How are diverse identities, perspectives, and identities represented in these images?
 
-> _Justice_: How do these images address, challenge, and confront unfairness, social inequities, systemic discrimination?
+> _Justice_
+> How do these images address, challenge, and confront unfairness, social inequities, systemic discrimination?
 
-> _Action_:How do these murals and pieces of street art reveal of your own personal responsibility to actively work against injustice, discrimination, and racism? 
+> _Action_
+> How do these murals and pieces of street art reveal of your own personal responsibility to actively work against injustice, discrimination, and racism? 
 
 
 Artists across the country and world have used art to raise their voice. How will you use your voice and amplify the voices of those who are most impacted by injustice, discrimination, and racism? 
